@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🎯 About Me
 
 I'm passionate about **LLMs, Agent Systems, and Reinforcement Learning**. I believe the best way to understand complex concepts is to build and teach them clearly.
 
@@ -21,7 +21,10 @@ I'm passionate about **LLMs, Agent Systems, and Reinforcement Learning**. I beli
 
 ---
 
-## 📚 Projects
+## 🗂️ Project Highlights
+
+<details open>
+<summary><b>📌 Featured Projects</b></summary>
 
 | Project | Description | Language |
 |---------|-------------|:--------:|
@@ -29,21 +32,38 @@ I'm passionate about **LLMs, Agent Systems, and Reinforcement Learning**. I beli
 | 💾 **[KvcacheVisualization](https://github.com/Playitcooool/KvcacheVisualization)** | KV Cache visualizer with attention hook injection, cache playback and statistics | Python |
 | 🤖 **[Simple-Agent-Framework](https://github.com/Playitcooool/Simple-Agent-Framework)** | Lightweight Agent development framework in pure Python | Python |
 | 🦾 **[robotagent](https://github.com/Playitcooool/robotagent)** | Bachelor thesis implementation — robot agent system | Python |
-| 🔍 **[AgenticSQL](https://github.com/Playitcooool/AgenticSQL)** | Agent-based SQL system | Python |
-| 📖 **[ArXivResearcher](https://github.com/Playitcooool/ArXivResearcher)** | ArXiv paper research tool | Python |
-| 💬 **[AIwechat](https://github.com/Playitcooool/AIwechat)** | AI-powered WeChat bot | Swift |
+| 📖 **[paper-reading-skill](https://github.com/Playitcooool/paper-reading-skill)** | Deep-read research papers from PDFs/Zotero into Markdown notes | Python |
+| 📚 **[wiki-knowledge-base-skill](https://github.com/Playitcooool/wiki-knowledge-base-skill)** | Local knowledge base based on Karpathy's LLM Wiki | Python |
+
+</details>
+
+<details>
+<summary><b>⚙️ Other Projects</b></summary>
+
+| Project | Language |
+|---------|:--------:|
+| [AgenticSQL](https://github.com/Playitcooool/AgenticSQL) | Python |
+| [ArXivResearcher](https://github.com/Playitcooool/ArXivResearcher) | Python |
+| [AIwechat](https://github.com/Playitcooool/AIwechat) | Swift |
+| [codex](https://github.com/Playitcooool/codex) | Rust |
+| [QwenQA-partial-marks](https://github.com/Playitcooool/QwenQA-partial-marks) | Jupyter |
+| [chrome-rust-paper-reader](https://github.com/Playitcooool/chrome-rust-paper-reader) | JavaScript |
+| [zotero-paper-reading-plugin](https://github.com/Playitcooool/zotero-paper-reading-plugin) | TypeScript |
+| [zotero-translate-plugin](https://github.com/Playitcooool/zotero-translate-plugin) | TypeScript |
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,linux,git,github,vscode,docker,md,latex&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,rust,swift,typescript,javascript,linux,git,github,vscode,docker,md,latex&theme=dark&perline=10" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Playitcooool&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="Stats" height="195" />
@@ -52,6 +72,15 @@ I'm passionate about **LLMs, Agent Systems, and Reinforcement Learning**. I beli
 
 ---
 
+## 🔗 Connect
+
 <p align="center">
-  <sub>⭐ Thanks for visiting — if you like my work, give me a star!</sub>
+  <a href="https://github.com/Playitcooool"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://twitter.com/Playitcooool"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>⭐ Thanks for visiting — if you like my work, feel free to reach out!</sub>
 </p>
